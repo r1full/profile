@@ -1,0 +1,67 @@
+
+
+<!DOCTYPE HTML>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="//r1full.glitch.me/assets/style.css">
+    <link rel="icon" href="https://cdn.glitch.global/7a58a3db-5f32-4f0a-b064-62727bd6c1fb/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?v=1714213874028">
+    <title>About Me - r1full</title>
+    
+    <!-- GoogleFont -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+    <!-- GoogleFontEnd -->
+    
+  </head>
+  <body>
+    <header>
+      <div class="headertxt">
+        <p>
+          <a href="/index.html">R1full's Site</a>
+          <a class="leftborder" href="/link/twitter.html"><img class="headersnsicon" src="https://cdn.glitch.global/7a58a3db-5f32-4f0a-b064-62727bd6c1fb/logo-black.png?v=1714215248545"></a>
+          <a href="/link/youtube.html"><img class="headersnsicon" src="https://cdn.glitch.global/7a58a3db-5f32-4f0a-b064-62727bd6c1fb/youtube_social_circle_dark.png?v=1714216442618"></a>
+        </p>
+      </div>
+      <hr>
+    </header>
+    <main>
+      <div class="maincontent">
+        <div class="titletxt">
+          自己紹介
+        </div>
+        <div class="txt">
+          <div class="long-txt">
+            <img src="https://cdn.glitch.global/7a58a3db-5f32-4f0a-b064-62727bd6c1fb/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png?v=1714213874028" alt="りふる-r1full" width="70px" height="70px">
+            <p>
+              こんにちは! りふるです!<br>
+              北海道に住んでいるごく普通の中学生です。<br>
+              小4くらいでプログラミングに興味を持って、<a href="//scratch.mit.edu"><span class="linkintxt">Scratch</span></a>を始めました。<br>
+              有名な訳でも無いですが、楽しくやっています。<br>
+              中1からC#<span class="light-txt">(Unityで始めましたが勉強を放棄しています)</span>、HTML、CSS、JavaScriptにも触れ、<br>
+              こんな感じで簡単なサイトくらいは作れるようにな...ったと思います。<br>
+              これからも実践形式?で頑張りたいと思います!<br><br>
+              そういえばYouTubeもやってます。<br>
+              編集技術とかもまだまだですが、チャンネル登録や高評価で応援してくれると喜びのあまり爆発します。<br>
+              チャンネルは<a href="//r1full.glitch.me/link/youtube.html"><span class="linkintxt">こちら</span></a>です。<br>
+            </p>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="footertxt">
+        <p>
+          Created : r1full<br><br>
+          <a href="/index.html">ホーム</a><br>
+          <a href="/link/twitter.html">問い合わせ(Twitter)</a> <a href="/link/discord-p.html">問い合わせ(Discord)</a><br>
+          <img src="https://creativecommons.jp/wp-content/uploads/2015/04/by-sa.png?w=150" width="57" height="20">CC BY-NC-SA<br>
+          <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 継承 4.0 国際 ライセンス</a>
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
